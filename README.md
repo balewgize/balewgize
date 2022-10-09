@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=balewgize&label=Profile%20views&color=0e75b6&style=flat" alt="balewgize" /> </p>
 
-- 🔭 I’m currently working on [OptimusProfit](https://www.optimusprofit.com/), [Hubml.ai](https://app.humbl.ai/)
+- 🔭 I’m currently working on [OptimusProfit](https://github.com/balewgize/OptimusProfit), [Hubml.ai](https://app.humbl.ai/)
 
 - 🌱 I’m currently learning **Python, Django**
 
