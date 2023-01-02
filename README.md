@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=balewgize&label=Profile%20views&color=0e75b6&style=flat" alt="balewgize" /> </p>
 
-- 🔭 I’m currently working on [OptimusProfit](https://github.com/balewgize/OptimusProfit), [Humbl.ai](https://app.humbl.ai/)
+- 🔭 I’m currently working on [OptimusProfit](https://github.com/balewgize/OptimusProfit)
 
 - 🌱 I’m currently learning **Django**
 
