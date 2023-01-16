@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=balewgize&label=Profile%20views&color=0e75b6&style=flat" alt="balewgize" /> </p>
 
-- 🔭 I’m currently working on [OptimusProfit](https://github.com/balewgize/OptimusProfit)
+<!-- - 🔭 I’m currently working on [OptimusProfit](https://github.com/balewgize/OptimusProfit) -->
 
 - 🌱 I’m currently learning **Django**
 
-- 👯 I’m looking to collaborate on **any fun project**
+- 👯 I’m looking to collaborate on **any interesting project**
 
 - 👨‍💻 All of my projects are available at [https://github.com/balewgize](https://github.com/balewgize)
 
