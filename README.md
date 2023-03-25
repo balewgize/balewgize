@@ -7,7 +7,7 @@
 
 <!-- - 🔭 I’m currently working on [OptimusProfit](https://github.com/balewgize/OptimusProfit) -->
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **Backend Development**
 
 - 👯 I’m looking to collaborate on **any interesting project**
 
