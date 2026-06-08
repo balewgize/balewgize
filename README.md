@@ -22,7 +22,7 @@
 ## Projects
 
 - **[Job Insight](https://github.com/balewgize/job-insight)** — AI-powered Upwork market intelligence for freelancers. 
-- **[Addis Laptop Bot](https://github.com/alemnew)** — Find best laptop deals from Telegram channels. Text + voice search + AI
+- **[Addis Laptop Bot](https://github.com/balewgize/addis-laptop)** — Find best laptop deals from Telegram channels. Text + voice search + AI
 - **[Reading Assistant](https://github.com/balewgize/reading-assistant)** — Convert books (PDF/EPUB/plain text) into structured summaries and AI chat.
 - **[Image Similarity Checker](https://github.com/balewgize/image-similarity-checker)** — Find similar images using AI embeddings.
 - **[Ethiopian Radio](https://github.com/balewgize/ethiopian-radio)** — Ethiopian FM Radio streaming app built with Flutter
